@@ -29,3 +29,6 @@ console.log("Olá mundo");
 const nome = "Bryan";
 console.log(nome.length);
 
+// Pular uma linha
+console.log("Pular uma linha para mostrar o resultado \n R$125,00");
+
