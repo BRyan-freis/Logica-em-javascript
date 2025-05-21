@@ -19,6 +19,13 @@ console.log(meunumero); */
 
 // Declarando variáveis
 let novonumero = 100;
-novonumero = 200;
+novonumero = 150;
 console.log(novonumero)
+
+// Strings - Sequências de caracteres
+console.log("Olá mundo");
+
+// Contagem de string
+const nome = "Bryan";
+console.log(nome.length);
 
