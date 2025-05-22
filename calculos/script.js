@@ -13,7 +13,7 @@ console.log(a-b);
 // Multiplicação
 console.log(a*b);
 
-// Concatenação na exibição dos resultados
+// Concatenação na exibição dos resultados das constantes
 console.log(divisao,("\n"),restodadivisao,("\n"),exponenciacao);
 
 // Precedência
