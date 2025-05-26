@@ -1,4 +1,4 @@
-//comentário em uma linha
+//Comentário em uma linha
 
 /* comentário 
 em várias 
@@ -13,11 +13,8 @@ console.log(typeof 2.5);
 const meunumero = 10;
 console.log(meunumero);
 
-// Constante não pode ser mudada - Type error
-/* meunumero = 15;
-console.log(meunumero); */
 
-// Declarando variáveis
+// Declarando variáveis - let deixa atribuir um novo valor
 let novonumero = 100;
 novonumero = 150;
 console.log(novonumero)
@@ -31,4 +28,11 @@ console.log(nome.length);
 
 // Pular uma linha
 console.log("Pular uma linha para mostrar o resultado \n R$125,00");
+
+// Atribuição de variável não necessariamente precisa ser apenas com const; 
+
+// Exemplo de varável comum
+novonumero = "13";
+console.log(novonumero)
+
 
